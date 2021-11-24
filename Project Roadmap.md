@@ -1,4 +1,4 @@
-- [ ] Find a webscrape extension.
+- [X] Find a webscrape extension.
 - [ ] Create python file for project.
 - [ ] Start building gui.
 - [ ] Add Start and End dates in application.
