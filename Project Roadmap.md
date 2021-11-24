@@ -1,8 +1,8 @@
-- [] Find a webscrape extension.
-- [] Create python file for project.
-- [] Start building gui.
-- [] Add Start and End dates in application.
-- [] Add Go and Cancel buttons.
-- [] Add requested hitting or pitching statistics as check boxes.
-- [] Link buttons to extensions.
-- [] Test.
+- [ ] Find a webscrape extension.
+- [ ] Create python file for project.
+- [ ] Start building gui.
+- [ ] Add Start and End dates in application.
+- [ ] Add Go and Cancel buttons.
+- [ ] Add requested hitting or pitching statistics as check boxes.
+- [ ] Link buttons to extensions.
+- [ ] Test.
